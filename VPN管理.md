@@ -32,11 +32,14 @@ URL：https://www.fndroid.cn/subscribe/ssr/<用户名>
 ![](https://github.com/Fndroid/About_VPN/blob/master/imgs/s1.png)
 
 2. 左下角选择**Add**
-3. 将右边**网址**改为上面给的订阅URL
+3. 将右边**网址**改为你对应的订阅URL
 4. 点击**确定**
+
+![](https://github.com/Fndroid/About_VPN/blob/master/imgs/s2.png)
 
 #### 刷新线路
 1. **右键**点击小飞机
 2. 选择**服务器订阅**-**更新SSR服务器订阅（不通过代理）
 3. 稍等几秒即可获取到新线路，分组为**Fndroid**
 
+![](https://github.com/Fndroid/About_VPN/blob/master/imgs/s3.png)
